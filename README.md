@@ -51,4 +51,4 @@ You can start with repo that is already present on GitHub
   
 There you go! Do some work, commit it with [good informative message](https://chris.beams.io/posts/git-commit/) and push your changes to GitHub.
 
-
+...and there are even more [resources](https://maraaverick.rbind.io/2017/12/git-guides/)

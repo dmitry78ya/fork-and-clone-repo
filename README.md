@@ -21,5 +21,5 @@ You can start with repo that is already present on GitHub
 1. Fork your repo of interest or create a new empty repo.
       (A) To fork a repo, click on the **Fork** button located in upper right corner of the repo page. GitHub starts process of copying this repo to your account.
 ![fork](img/github-fork.png)
-      (B) To create a new repo, find a plus sign `+` on your GitHub account page upper right corner between a bell :bell: and your avatar :avatar: .
+      (B) To create a new repo, find a plus sign :plus-sign: on your GitHub account page upper right corner between a bell :bell: and your avatar :squirrel:.
 

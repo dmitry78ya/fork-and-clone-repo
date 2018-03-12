@@ -24,5 +24,6 @@ You can start with repo that is already present on GitHub
 ![fork](img/github-fork.png)
 
       (B) To create a new repo, find a plus sign :heavy_plus_sign: on your GitHub account page upper right corner :arrow_upper_right: between a bell :bell: and your avatar :squirrel:.
+![new repo](img/github-new-repo.png)
 
 

@@ -26,5 +26,25 @@ You can start with repo that is already present on GitHub
       (B) To create a new repo, find a plus sign :heavy_plus_sign: on your GitHub account page upper right corner :arrow_upper_right: between a bell :bell: and your avatar :squirrel:. Fill in all necessary fields in tha new repo creation dialogue and also check :heavy_check_mark: "Initialize this repository with a README" option. This will create your repo with readme file, where you can describe what this repo is about and how to use this repo. Consider repo name carefully.
 ![new repo](img/github-new-repo.png)
 
-2. Clone repo to your computer. In your new repo click on the green "clone or download" button. Choose "use HTTPS" (or SSH if you have set it up) and click on the clipboard icon :clipboard: next to url to copy repo web address.
-![clone](img/github-clone-https.png)
+2. Clone repo to your computer. 
+
+  - In your new repo click on the green "clone or download" button. Choose "use HTTPS" (or SSH if you have set it up) and click on the clipboard icon :clipboard: next to url to copy repo web address.
+  ![clone](img/github-clone-https.png)
+
+  - Open Rstudio and from the upper right corner "Project" menu start "New Project":
+  ![new project](img/rstudio-create-new-project.png)
+  
+  - Start new project with version control:
+  ![version control](img/rstudio-version-control.png)
+  
+  - Paste your repo web URL that you copied from GitHub into "Repository URL" field, browse and choose where do you want your project folder to live (even Downloads folder is ok) and click "Create Project":
+  ![project URL](img/rstudio-create-project.png)
+  
+  - Your project is ready for your input:
+  ![ready](img/rstudio-project-ready.png)
+  
+3. Start editing .Rmd file. To open file, click on the file name in the "File" pane or open file via File dialogue.
+  ![rmd](img/rstudio-open-rmd.png)
+
+4. 
+

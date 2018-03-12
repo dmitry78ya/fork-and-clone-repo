@@ -6,7 +6,7 @@
 
 
 ## Introduction
-This tutorial describes steps how to **fork** someones repo from GitHub and then **clone** and open this repo in your Rstudio session.
+This tutorial describes steps how to **fork** repo from GitHub and then **clone** and open this repo in your Rstudio session.
 Deeper and wider insight into git and GitHub for **begginners** with more use cases and **troubleshooting** is available at http://happygitwithr.com by Jenny Bryan. 
 
 Please also have a look at the ["Why.." chapters](http://happygitwithr.com/big-picture.html#why-git), because it's definitely question that might arise in one's head. Do I really need to make my life unnecessary complicated with all this version control stuff and command line? Well, wait until you can see forest behind the trees: uploading your work to online repo hosting services (GitHub, Bitbucket, GitLab) provides you with easy access to sharing and disseminating your work and makes you visible. You can start blogging and even publish a book! All this is on top of clutter-free and transparent version control.
@@ -34,17 +34,21 @@ You can start with repo that is already present on GitHub
   - Open Rstudio and from the upper right corner "Project" menu start "New Project":
   ![new project](img/rstudio-create-new-project.png)
   
-  - Start new project with version control:
+  - Start new project with "Version Control":
   ![version control](img/rstudio-version-control.png)
   
-  - Paste your repo web URL that you copied from GitHub into "Repository URL" field, browse and choose where do you want your project folder to live (even Downloads folder is ok) and click "Create Project":
+  - Paste your repo web URL (that you copied from GitHub) into "Repository URL" field, browse and choose where do you want your project folder to live (even Downloads folder is ok) and click "Create Project":
   ![project URL](img/rstudio-create-project.png)
   
   - Your project is ready for your input:
   ![ready](img/rstudio-project-ready.png)
   
-3. Start editing .Rmd file. To open file, click on the file name in the "File" pane or open file via File dialogue.
+3. To open file, click on the file name in the "File" pane or open file via File dialogue.
   ![rmd](img/rstudio-open-rmd.png)
 
-4. 
+4. Start editing .Rmd file. 
+  ![edit](img/rstudio-start-editing.png)
+  
+There you go!
+
 

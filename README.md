@@ -49,6 +49,6 @@ You can start with repo that is already present on GitHub
 4. Start editing .Rmd file. 
   ![edit](img/rstudio-start-editing.png)
   
-There you go!
+There you go! Do some work, commit it with [good informative message](https://chris.beams.io/posts/git-commit/) and push your changes to GitHub.
 
 

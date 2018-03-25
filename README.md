@@ -52,3 +52,16 @@ You can start with repo that is already present on GitHub
 There you go! Do some work, commit it with [good informative message](https://chris.beams.io/posts/git-commit/) and push your changes to GitHub.
 
 ...and there are even more [resources](https://maraaverick.rbind.io/2017/12/git-guides/)
+
+
+### Increasing the lifetime of your credentials
+When interacting with GitHub over https (as in our classes), it is possible to increase the lifetime of your credentials to 1 hour and save some username and password retyping by using the following command:
+
+```
+git config --global credential.helper 'cache --timeout=3600'
+```
+
+
+
+
+

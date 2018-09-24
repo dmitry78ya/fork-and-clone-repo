@@ -2,7 +2,7 @@
 
 - Found interesting R project on GitHub and want to collaborate, contribute or play around with it but you don't know how to get this thing into your computer?
 
-- Second scenario where you can also apply most of the steps of this tutorial is when you want to use GitHub git repo for version control of your new R project. Easiest way to do this is to start from GitHub.
+- Another scenario where you can also apply most of the steps of this tutorial is when you want to use GitHub git repo for version control of your new R project. Easiest way to do this is to start from GitHub.
 
 
 ## Introduction

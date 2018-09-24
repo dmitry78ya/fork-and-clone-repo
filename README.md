@@ -12,7 +12,7 @@ Do I really need to make my life unnecessary complicated with all this version c
 
 Using version control and uploading your work to repo hosting services like GitHub, Bitbucket, and GitLab allows you to:
 - share, collaborate, and disseminate your work and makes you visible: you can publish a blog and even a book via Github pages! 
-- transparent version control.
+- transparent version control and your code is safe if you screw up your project locally
 
 ## Prerequsites
 Tutorial assumes that you have R and RStudio installed to your computer, or you have [RStudio Cloud](https://rstudio.cloud) account. Then you need to have [GitHub account](http://happygitwithr.com/github-acct.html) and [git installed to your computer](http://happygitwithr.com/install-git.html) and you must [introduce yourself to git](http://happygitwithr.com/hello-git.html).
